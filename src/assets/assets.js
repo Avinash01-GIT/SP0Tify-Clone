@@ -22,7 +22,7 @@ import arrow_right from './right_arrow.png'
 import arrow_left from './left_arrow.png'
 import spotify_logo from './spotify_logo.png'
 import clock_icon from './clock_icon.png'
-import img1 from './img1.jpg'
+import img1 from './img1.jpeg'
 import img2 from './img2.jpg'
 import img3 from './img3.jpg'
 import img4 from './img4.jpg'
@@ -117,10 +117,10 @@ export const albumsData = [
 export const songsData = [
     {
         id:0,
-        name: "Song One",
+        name: "StarBoy",
         image: img1,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Look what you've done!",
         duration:"3:00"
     },
     {

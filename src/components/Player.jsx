@@ -7,7 +7,7 @@ const Player = () => {
         <img className="w-12" src={songsData[0].image} alt="" />
         <div>
           <p>{songsData[0].name}</p>
-          <p>{songsData[0].desc.slice(0,12)}</p>
+          <p>{songsData[0].desc.slice(0,14)}</p>
         </div>
       </div>
       <div className="flex flex-col items-center gap-1 m-auto">
