@@ -23,7 +23,7 @@ import arrow_left from './left_arrow.png'
 import spotify_logo from './spotify_logo.png'
 import clock_icon from './clock_icon.png'
 import img1 from './img1.jpeg'
-import img2 from './img2.jpg'
+import img2 from './img2.jpeg'
 import img3 from './img3.jpg'
 import img4 from './img4.jpg'
 import img5 from './img5.jpg'
@@ -125,10 +125,10 @@ export const songsData = [
     },
     {
         id:1,
-        name: "Song Two",
+        name: "Lala Land",
         image: img2,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"The End",
         duration:"2:20"
     },
     {
