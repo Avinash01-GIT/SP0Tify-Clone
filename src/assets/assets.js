@@ -121,7 +121,7 @@ export const songsData = [
         image: img1,
         file:song1,
         desc:"Look what you've done!",
-        duration:"3:00"
+        duration:"4:33"
     },
     {
         id:1,
