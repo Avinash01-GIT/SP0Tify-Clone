@@ -24,16 +24,16 @@ import spotify_logo from './spotify_logo.png'
 import clock_icon from './clock_icon.png'
 import img1 from './img1.jpeg'
 import img2 from './img2.jpeg'
-import img3 from './img3.jpg'
-import img4 from './img4.jpg'
-import img5 from './img5.jpg'
-import img6 from './img6.jpg'
-import img7 from './img7.jpg'
+import img3 from './img3.jpeg'
+import img4 from './img4.jpeg'
+import img5 from './img5.jpeg'
+import img6 from './img6.jpeg'
+import img7 from './img7.jpeg'
 import img8 from './img8.jpg'
 import img9 from './img9.jpg'
 import img10 from './img10.jpg'
 import img11 from './img11.jpg'
-import img12 from './img12.jpg'
+import img12 from './img12.jpeg'
 import img13 from './img13.jpg'
 import img14 from './img14.jpg'
 import img15 from './img15.jpg'
@@ -133,50 +133,50 @@ export const songsData = [
     },
     {
         id:2,
-        name: "Song Three",
+        name: "oppenheimer",
         image: img3,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
-        duration:"2:32"
+        desc:"Can yoy hear the music?",
+        duration:"1:51"
     },
     {
         id:3,
-        name: "Song Four",
+        name: "ken",
         image: img4,
         file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"im just ken!",
         duration:"2:50"
     },
     {
         id:4,
-        name: "Song Five",
+        name: "Popular",
         image: img5,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Theweeknd",
         duration:"3:10"
     },
     {
         id:5,
-        name: "Song Six",
-        image: img14    ,
+        name: "Eam Sandeham Ledu",
+        image: img6    ,
         file:song3,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Telugu",
         duration:"2:45"
     },
     {
         id:6,
-        name: "Song Seven",
+        name: "Zehnaseeb",
         image: img7,
-        file:song1,
-        desc:"Put a smile on your face with these happy tunes",
+        file:song2,
+        desc:"Put a smile on your face!",
         duration:"2:18"
     },
     {
         id:7,
-        name: "Song Eight",
+        name: "Sunflower",
         image: img12,
         file:song2,
-        desc:"Put a smile on your face with these happy tunes",
+        desc:"Spider-Man",
         duration:"2:35"
     }
 ]
